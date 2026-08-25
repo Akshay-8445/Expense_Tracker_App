@@ -103,3 +103,9 @@ Create a feature branch (git checkout -b feature-branch)
 Commit your changes (git commit -m "Your message")
 Push to the branch (git push origin feature-branch)
 Open a Pull Request 🎉
+
+---
+## Author
+
+**Akshay Pal**
+### LinkedIn: https://www.linkedin.com/in/akshay-pal-60115b286/
